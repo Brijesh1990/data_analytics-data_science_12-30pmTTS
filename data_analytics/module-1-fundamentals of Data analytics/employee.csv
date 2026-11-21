@@ -1,0 +1,6 @@
+"empid","name","lname","upload_photo","password","age","salary","department","address","country","state","city","manager"
+"1","smith","vaghela","smith.jpg","s254545","21","14500.00","IT","150 rajkot","india","gujrat","rajkot","smith"
+"2","rushikesh","patil","rushi.jpg","r254545","22","15500.00","IT","150 rajkot","india","gujrat","rajkot","smith"
+"3","priyanshu","lakhtariya","p.jpg","p254545","24","16500.00","CSE","150 rajkot","india","gujrat","junagad","smith"
+"4","ashtha","pacholi","astha.jpg","a254545","25","16400.00","CSE","150 rajkot","india","gujrat","jamanagar","mansi"
+"5","                        mansi","agrawal","mansi.jpg","m254545","24","18500.00","IT","burj khalifa tower number 4 102 floor falt n umber 204","india","uttar pradesh","lucknow","mansi"
