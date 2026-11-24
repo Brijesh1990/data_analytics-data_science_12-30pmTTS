@@ -1,0 +1,101 @@
+Employee_ID,Full_Name,Gender,Age,Email,Phone,Department,Job_Title,City,Employment_Type,Joining_Date,Annual_Salary_INR,Performance_Rating,Status
+EMP0001,Rohan Singh,Male,28,rohan.singh1@company.in,-7081945957,Finance,Financial Analyst,Bengaluru,Full-Time,25-09-2022,1788000,3,Active
+EMP0002,Navya Agarwal,Female,36,navya.agarwal2@company.in,-7086983472,Marketing,Brand Manager,Delhi,Full-Time,16-10-2019,464000,3.4,Active
+EMP0003,Nikhil Rao,Female,44,nikhil.rao3@company.in,-7334922065,HR,HR Business Partner,Ahmedabad,Contract,08-03-2026,541000,3.1,Active
+EMP0004,Sai Kapoor,Female,34,sai.kapoor4@company.in,-7960692306,Finance,Financial Analyst,Hyderabad,Full-Time,01-06-2025,646000,5,Active
+EMP0005,Reyansh Menon,Female,32,reyansh.menon5@company.in,-7910869338,Sales,Business Development Manager,Gurugram,Full-Time,08-07-2025,939000,4.1,Active
+EMP0006,Ira Chatterjee,Female,36,ira.chatterjee6@company.in,-7802131326,Finance,Finance Manager,Bengaluru,Full-Time,27-07-2020,667000,3.7,Active
+EMP0007,Pranav Mishra,Female,47,pranav.mishra7@company.in,-8858551154,Finance,Payroll Specialist,Pune,Full-Time,20-12-2020,850000,4.4,On Leave
+EMP0008,Dhruv Chatterjee,Female,45,dhruv.chatterjee8@company.in,-8915566064,Product,Associate Product Manager,Mumbai,Full-Time,15-07-2023,2069000,4.7,Active
+EMP0009,Rohan Gupta,Male,46,rohan.gupta9@company.in,-9595499101,Marketing,SEO Analyst,Noida,Full-Time,26-10-2020,1560000,4.3,Active
+EMP0010,Sneha Pandey,Female,29,sneha.pandey10@company.in,-8759544882,Sales,Regional Sales Head,Bengaluru,Full-Time,02-02-2023,832000,4.9,Active
+EMP0011,Navya Mishra,Male,31,navya.mishra11@company.in,-7348691868,Sales,Account Manager,Bengaluru,Contract,13-12-2023,1631000,3.5,Active
+EMP0012,Ayaan Mishra,Male,27,ayaan.mishra12@company.in,-8189450215,Engineering,DevOps Engineer,Noida,Full-Time,11-10-2018,2511000,3.1,Active
+EMP0013,Sara Gupta,Female,35,sara.gupta13@company.in,-7868579072,HR,Talent Acquisition Specialist,Chennai,Full-Time,23-06-2022,1104000,4.8,Active
+EMP0014,Ayaan Joshi,Male,36,ayaan.joshi14@company.in,-7736218301,Engineering,Software Engineer,Bengaluru,Full-Time,28-01-2025,2284000,2.9,Active
+EMP0015,Diya Patel,Female,35,diya.patel15@company.in,-8684741104,HR,Talent Acquisition Specialist,Ahmedabad,Full-Time,22-09-2020,1441000,3.2,Active
+EMP0016,Neha Desai,Male,28,neha.desai16@company.in,-8160965428,Engineering,DevOps Engineer,Mumbai,Full-Time,21-10-2021,2327000,3.2,On Leave
+EMP0017,Riya Kumar,Male,26,riya.kumar17@company.in,-8382433959,Marketing,Digital Marketing Specialist,Noida,Full-Time,25-04-2025,556000,4.9,Active
+EMP0018,Shaurya Desai,Female,25,shaurya.desai18@company.in,-8591373001,Product,UX Designer,Gurugram,Full-Time,19-05-2022,1005000,3.4,On Leave
+EMP0019,Neha Sen,Male,25,neha.sen19@company.in,-8594730198,HR,HR Executive,Bengaluru,Contract,23-08-2018,1108000,3.8,On Leave
+EMP0020,Shaurya Verma,Male,26,shaurya.verma20@company.in,-8664020409,Finance,Accountant,Kolkata,Full-Time,07-05-2019,1397000,4.1,Active
+EMP0021,Pooja Patel,Female,38,pooja.patel21@company.in,-8373796072,Product,Senior Product Manager,Delhi,Full-Time,23-12-2020,1501000,4.3,Active
+EMP0022,Anvi Rao,Non-Binary,28,anvi.rao22@company.in,-9463719417,Engineering,QA Engineer,Gurugram,Full-Time,04-09-2023,1247000,4.9,Active
+EMP0023,Aryan Iyer,Female,22,aryan.iyer23@company.in,-7933830585,Finance,Finance Manager,Pune,Full-Time,01-03-2019,1941000,3.1,Active
+EMP0024,Karan Kapoor,Male,43,karan.kapoor24@company.in,-7509345606,Product,Senior Product Manager,Gurugram,Full-Time,25-06-2023,2060000,3,Active
+EMP0025,Kabir Verma,Female,32,kabir.verma25@company.in,-7011653628,Finance,Payroll Specialist,Delhi,Contract,30-11-2025,1707000,2.8,Active
+EMP0026,Amit Pandey,Female,31,amit.pandey26@company.in,-7488481420,Marketing,Content Strategist,Chennai,Full-Time,16-06-2021,538000,4.8,Active
+EMP0027,Sneha Joshi,Female,31,sneha.joshi27@company.in,-9185423382,Product,Associate Product Manager,Delhi,Full-Time,27-12-2019,2677000,3.2,Active
+EMP0028,Myra Kulkarni,Male,46,myra.kulkarni28@company.in,-9195142436,Operations,Operations Executive,Hyderabad,Full-Time,30-06-2020,1387000,3.6,Active
+EMP0029,Advaith Sharma,Female,26,advaith.sharma29@company.in,-9162735222,Operations,Operations Manager,Noida,Full-Time,12-03-2025,1136000,4.3,On Leave
+EMP0030,Diya Sharma,Female,24,diya.sharma30@company.in,-7377944146,Engineering,QA Engineer,Chennai,Full-Time,16-11-2021,1711000,4.1,On Leave
+EMP0031,Ayaan Menon,Male,49,ayaan.menon31@company.in,-9947485483,Engineering,QA Engineer,Hyderabad,Full-Time,15-01-2024,2741000,3.7,Active
+EMP0032,Pooja Rao,Female,54,pooja.rao32@company.in,-9173726243,Sales,Regional Sales Head,Gurugram,Contract,07-07-2022,1184000,3.1,Active
+EMP0033,Neha Menon,Female,47,neha.menon33@company.in,-9219432719,HR,HR Executive,Hyderabad,Full-Time,21-03-2021,1087000,4.5,On Leave
+EMP0034,Vikram Rao,Male,54,vikram.rao34@company.in,-8523667814,Marketing,Content Strategist,Noida,Contract,08-03-2021,628000,3.5,Active
+EMP0035,Sneha Reddy,Male,37,sneha.reddy35@company.in,-7736136009,Marketing,Digital Marketing Specialist,Kolkata,Full-Time,25-08-2022,1405000,4.4,Active
+EMP0036,Kavya Menon,Male,28,kavya.menon36@company.in,-7799429251,Operations,Customer Support Lead,Noida,Full-Time,22-12-2019,859000,2.9,Active
+EMP0037,Ayaan Shah,Female,50,ayaan.shah37@company.in,-7436970810,HR,People Operations Manager,Pune,Full-Time,01-01-2023,1599000,3.8,Active
+EMP0038,Rohan Nair,Male,39,rohan.nair38@company.in,-9509478236,Marketing,Digital Marketing Specialist,Gurugram,Full-Time,18-08-2020,1049000,3.5,On Leave
+EMP0039,Sai Kumar,Male,35,sai.kumar39@company.in,-7494240220,Engineering,DevOps Engineer,Noida,Full-Time,17-09-2021,1655000,3.7,Active
+EMP0040,Myra Menon,Male,46,myra.menon40@company.in,-9964986465,Marketing,Digital Marketing Specialist,Delhi,Full-Time,08-05-2021,1188000,4,On Leave
+EMP0041,Meera Pandey,Female,53,meera.pandey41@company.in,-7722673902,Engineering,DevOps Engineer,Delhi,Full-Time,02-07-2025,1505000,4.6,Active
+EMP0042,Pooja Kapoor,Male,27,pooja.kapoor42@company.in,-7088361554,Finance,Payroll Specialist,Pune,Full-Time,07-03-2023,835000,3.4,Active
+EMP0043,Pranav Shah,Female,39,pranav.shah43@company.in,-8071054145,Operations,Customer Support Lead,Ahmedabad,Full-Time,02-12-2018,929000,4.4,Active
+EMP0044,Saanvi Joshi,Male,23,saanvi.joshi44@company.in,-9130318902,Product,Associate Product Manager,Kolkata,Full-Time,25-03-2018,2760000,3.3,Active
+EMP0045,Neha Singh,Female,45,neha.singh45@company.in,-8848038478,Product,Product Manager,Gurugram,Full-Time,02-11-2019,2631000,4.1,Active
+EMP0046,Nitya Bose,Male,26,nitya.bose46@company.in,-9975459101,HR,Talent Acquisition Specialist,Gurugram,Contract,26-10-2025,664000,4.6,On Leave
+EMP0047,Aditya Iyer,Male,54,aditya.iyer47@company.in,-8745666057,Finance,Finance Manager,Ahmedabad,Full-Time,17-09-2022,577000,3.8,Active
+EMP0048,Rohan Pandey,Female,33,rohan.pandey48@company.in,-9715570167,Finance,Finance Manager,Ahmedabad,Full-Time,14-01-2024,1842000,3.8,On Leave
+EMP0049,Kabir Rao,Male,39,kabir.rao49@company.in,-9790842086,Marketing,Content Strategist,Kolkata,Full-Time,23-05-2024,1425000,3.5,Active
+EMP0050,Ananya Gupta,Female,43,ananya.gupta50@company.in,-8597637711,Sales,Business Development Manager,Noida,Full-Time,11-02-2018,1666000,3,Active
+EMP0051,Kavya Kapoor,Female,50,kavya.kapoor51@company.in,-9484341408,Operations,Operations Executive,Hyderabad,Full-Time,20-04-2021,595000,4.3,Active
+EMP0052,Neha Bhatia,Female,49,neha.bhatia52@company.in,-8209271940,Finance,Finance Manager,Ahmedabad,Full-Time,18-11-2025,1288000,3.5,Active
+EMP0053,Ayaan Chatterjee,Male,34,ayaan.chatterjee53@company.in,-7631051268,Product,UX Designer,Kolkata,Contract,15-02-2026,1580000,4.1,Active
+EMP0054,Advik Reddy,Male,30,advik.reddy54@company.in,-7745457210,Sales,Sales Executive,Gurugram,Full-Time,16-03-2024,614000,4.2,Active
+EMP0055,Reyansh Tiwari,Female,50,reyansh.tiwari55@company.in,-7040185152,Sales,Account Manager,Ahmedabad,Full-Time,31-10-2020,608000,4.6,Active
+EMP0056,Kavya Patel,Male,31,kavya.patel56@company.in,-8890792411,Operations,Operations Manager,Mumbai,Contract,13-10-2020,579000,4.5,On Leave
+EMP0057,Meera Kulkarni,Female,50,meera.kulkarni57@company.in,-9026439490,Marketing,Brand Manager,Gurugram,Contract,23-10-2022,1684000,4.2,On Leave
+EMP0058,Karan Singh,Female,27,karan.singh58@company.in,-9499337144,Product,Associate Product Manager,Mumbai,Full-Time,10-03-2024,1365000,2.8,Active
+EMP0059,Amit Agarwal,Female,40,amit.agarwal59@company.in,-8539848084,Finance,Payroll Specialist,Hyderabad,Full-Time,16-09-2025,699000,4.5,On Leave
+EMP0060,Neha Kulkarni,Male,31,neha.kulkarni60@company.in,-7648265632,Sales,Account Manager,Pune,Full-Time,02-09-2018,650000,4.1,On Leave
+EMP0061,Ritvik Shah,Female,39,ritvik.shah61@company.in,-7407471342,HR,People Operations Manager,Kolkata,Full-Time,26-11-2018,1368000,4.8,Active
+EMP0062,Meera Nair,Male,39,meera.nair62@company.in,-7084721879,HR,HR Executive,Noida,Full-Time,12-04-2023,817000,4.8,Active
+EMP0063,Tara Desai,Female,44,tara.desai63@company.in,-9080074360,Marketing,Brand Manager,Mumbai,Full-Time,07-07-2025,1123000,3.5,Active
+EMP0064,Ritvik Bose,Male,42,ritvik.bose64@company.in,-8312282011,Sales,Business Development Manager,Noida,Full-Time,14-07-2022,743000,4.2,On Leave
+EMP0065,Anvi Desai,Female,50,anvi.desai65@company.in,-7177634495,Operations,Operations Executive,Noida,Full-Time,29-12-2020,827000,4.8,Active
+EMP0066,Amit Chopra,Male,32,amit.chopra66@company.in,-7397813692,Sales,Sales Executive,Mumbai,Full-Time,30-07-2022,1658000,5,Active
+EMP0067,Anvi Singh,Female,54,anvi.singh67@company.in,-9122430090,Finance,Finance Manager,Ahmedabad,Full-Time,31-05-2023,1421000,3.8,Active
+EMP0068,Kiara Mehta,Male,26,kiara.mehta68@company.in,-8964076525,Sales,Regional Sales Head,Gurugram,Full-Time,11-09-2023,1213000,3.4,Active
+EMP0069,Tara Bhatia,Female,52,tara.bhatia69@company.in,-9162474087,Sales,Business Development Manager,Delhi,Full-Time,04-02-2024,1657000,4.9,Active
+EMP0070,Amit Joshi,Female,24,amit.joshi70@company.in,-8873660105,Sales,Regional Sales Head,Delhi,Full-Time,11-04-2022,1979000,3.9,Active
+EMP0071,Krishna Malhotra,Female,28,krishna.malhotra71@company.in,-8933953424,HR,People Operations Manager,Pune,Full-Time,07-02-2026,482000,4.7,Active
+EMP0072,Arjun Chopra,Female,27,arjun.chopra72@company.in,-9560944646,Operations,Operations Manager,Ahmedabad,Contract,21-07-2021,1197000,2.9,Active
+EMP0073,Aryan Das,Male,49,aryan.das73@company.in,-9242647576,Engineering,Software Engineer,Gurugram,Full-Time,13-11-2019,1730000,2.9,Active
+EMP0074,Ritvik Iyer,Female,33,ritvik.iyer74@company.in,-8228266359,Product,Associate Product Manager,Delhi,Contract,01-11-2024,1166000,4.3,Active
+EMP0075,Tara Kumar,Female,38,tara.kumar75@company.in,-7760870352,Finance,Financial Analyst,Noida,Full-Time,24-03-2021,1526000,3,Active
+EMP0076,Tara Reddy,Female,41,tara.reddy76@company.in,-9093665524,Product,UX Designer,Mumbai,Full-Time,03-06-2023,2790000,3.6,Active
+EMP0077,Nitya Reddy,Non-Binary,47,nitya.reddy77@company.in,-9291348605,Sales,Sales Executive,Bengaluru,Contract,10-09-2025,1687000,4.4,Active
+EMP0078,Siddharth Kulkarni,Male,34,siddharth.kulkarni78@company.in,-7754089478,HR,HR Business Partner,Mumbai,Full-Time,17-01-2025,737000,3.5,Active
+EMP0079,Aditya Bhatia,Female,42,aditya.bhatia79@company.in,-8195527133,Finance,Payroll Specialist,Pune,Contract,02-04-2020,918000,4.7,Active
+EMP0080,Avni Malhotra,Female,52,avni.malhotra80@company.in,-9993345629,Operations,Operations Manager,Ahmedabad,Full-Time,17-04-2019,1110000,3.1,Active
+EMP0081,Sneha Chatterjee,Female,27,sneha.chatterjee81@company.in,-9209861998,Operations,Customer Support Lead,Noida,Full-Time,19-12-2020,429000,3.8,Active
+EMP0082,Tara Menon,Male,36,tara.menon82@company.in,-9694893604,Marketing,Digital Marketing Specialist,Chennai,Contract,18-04-2024,1749000,3.3,Active
+EMP0083,Rohan Jain,Male,30,rohan.jain83@company.in,-8521349517,Engineering,Software Engineer,Mumbai,Full-Time,11-07-2023,1438000,3.3,On Leave
+EMP0084,Krishna Menon,Female,31,krishna.menon84@company.in,-8486458538,Marketing,Digital Marketing Specialist,Delhi,Full-Time,26-11-2024,1476000,2.9,Active
+EMP0085,Pranav Shah,Male,45,pranav.shah85@company.in,-8457140856,HR,HR Business Partner,Gurugram,Full-Time,19-06-2022,577000,4.9,Active
+EMP0086,Sai Bose,Male,25,sai.bose86@company.in,-7695094018,Operations,Operations Manager,Kolkata,Full-Time,31-05-2019,911000,3,On Leave
+EMP0087,Pranav Bhatia,Male,22,pranav.bhatia87@company.in,-7707640448,Sales,Account Manager,Gurugram,Full-Time,22-01-2024,773000,3,Active
+EMP0088,Krishna Sharma,Male,33,krishna.sharma88@company.in,-8173841095,Sales,Sales Executive,Delhi,Contract,27-04-2026,766000,3.1,Active
+EMP0089,Prisha Shah,Male,50,prisha.shah89@company.in,-9549457362,HR,Talent Acquisition Specialist,Noida,Full-Time,26-02-2026,541000,3.8,Active
+EMP0090,Vihaan Chopra,Male,53,vihaan.chopra90@company.in,-9776462549,Finance,Payroll Specialist,Chennai,Contract,27-11-2018,704000,3.1,Active
+EMP0091,Kabir Agarwal,Female,46,kabir.agarwal91@company.in,-9074486633,HR,HR Business Partner,Kolkata,Full-Time,02-09-2023,1402000,3,Active
+EMP0092,Vikram Das,Male,49,vikram.das92@company.in,-9876082173,Marketing,Content Strategist,Ahmedabad,Full-Time,20-10-2021,1318000,3.7,Active
+EMP0093,Ananya Desai,Male,52,ananya.desai93@company.in,-8024097086,Engineering,Software Engineer,Mumbai,Full-Time,16-12-2018,2544000,3,Active
+EMP0094,Krishna Kapoor,Female,29,krishna.kapoor94@company.in,-7196586778,Marketing,Brand Manager,Bengaluru,Full-Time,01-02-2026,1337000,4.1,Active
+EMP0095,Reyansh Bhatia,Female,36,reyansh.bhatia95@company.in,-8662637793,Operations,Operations Executive,Chennai,Full-Time,28-03-2024,1134000,4.5,On Leave
+EMP0096,Advaith Kulkarni,Male,39,advaith.kulkarni96@company.in,-8406183435,Engineering,Senior Software Engineer,Gurugram,Full-Time,18-11-2025,1373000,3.6,Active
+EMP0097,Ishaan Bhatia,Male,27,ishaan.bhatia97@company.in,-9153962440,Finance,Accountant,Ahmedabad,Full-Time,16-09-2022,1339000,3.1,Active
+EMP0098,Priya Rao,Male,31,priya.rao98@company.in,-9545584304,Product,Product Manager,Gurugram,Full-Time,01-12-2018,2413000,4.3,Active
+EMP0099,Meera Shah,Male,44,meera.shah99@company.in,-8357145713,Marketing,Digital Marketing Specialist,Kolkata,Full-Time,09-08-2025,1044000,4,Active
+EMP0100,Aditya Joshi,Male,41,aditya.joshi100@company.in,-8295188463,Product,Associate Product Manager,Gurugram,Full-Time,12-11-2020,2603000,3.1,Active
